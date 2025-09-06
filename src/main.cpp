@@ -5,7 +5,7 @@ int myFunction(int, int);
 
 void setup() {
   // put your setup code here, to run once:
-  int result = myFunction(2, 5);
+  int result = myFunction(2, 8);
 }
 
 void loop() {
